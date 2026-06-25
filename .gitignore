@@ -1,0 +1,25 @@
+# Unity - carpetas generadas
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Uu]ser[Ss]ettings/
+
+# Visual Studio / IDEs
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# Archivos generados por Unity/Visual Studio
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
